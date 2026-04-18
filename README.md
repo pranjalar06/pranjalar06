@@ -27,16 +27,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact  
-
-> I can binge-watch literally anything — from random shows to tech videos — and somehow still call it “productive” 😄  
-
----
-
-<!-- Footer -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
-</p>
