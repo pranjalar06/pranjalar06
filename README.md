@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&color=6C63FF&left=true&vCenter=true&width=600&lines=Hi+I'm+Pranjal+Arora;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Building+cool+things+with+AI+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&color=6C63FF&vCenter=true&width=600&lines=Hi+I'm+Pranjal+Arora;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Exploring+AI+%26+Building+Cool+Stuff+🚀" />
 </p>
 
 ---
@@ -8,25 +8,9 @@
 ## 👋 About Me  
 
 💻 Computer Science (Data Science) student  
-🎨 Into **Frontend Development & UI/UX**  
-🤖 Exploring **AI-powered applications**  
-⚡ I like building things that are **interactive, clean, and actually fun to use**  
-
----
-
-## 🛠️ Tech Stack  
-
-### Languages  
-C • C++ • Java • Python • JavaScript  
-
-### Frontend  
-HTML • CSS • Tailwind CSS • React  
-
-### Backend & Tools  
-Node.js • Flask • Git • GitHub  
-
-### Data  
-SQL • Pandas • NumPy  
+🎨 Interested in **Frontend Development & UI/UX**  
+🤖 Exploring **AI-driven applications**  
+⚡ I like building things that are **clean, interactive, and intuitive**  
 
 ---
 
@@ -46,17 +30,13 @@ SQL • Pandas • NumPy
 
 ---
 
-## ⚡ Fun Zone  
+## ⚡ Fun Fact  
 
-<!-- Add a cool GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-### 🧠 Fun Fact  
-> *[we’ll make this quirky once you tell me something interesting about you]*  
+> I can binge-watch literally anything — from random shows to tech videos — and somehow still call it “productive” 😄  
 
 ---
 
-<!-- Subtle Footer Animation -->
+<!-- Footer -->
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </p>
